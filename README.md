@@ -18,7 +18,3 @@ The background and icons smoothly transition between light and dark modes when t
 
 - `index.html` — Main HTML file with the toggle UI
 - `style.css` — CSS for layout, animation, and responsiveness
-
-## Credits
-
-Inspired by [https://youtu.be/AC9VIXvLTLA?si=16WQAQ4-lrQKKb8f]tutorials.
